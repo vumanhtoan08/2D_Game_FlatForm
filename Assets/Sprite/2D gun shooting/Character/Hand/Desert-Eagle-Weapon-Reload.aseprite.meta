@@ -1,0 +1,679 @@
+fileFormatVersion: 2
+guid: f8cd0a91c76ad0f48adc195a6ae07d35
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 20
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638648069048782634
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Desert-Eagle-Weapon-Reload_Frame_0
+    originalName: 
+    pivot: {x: 0.34782606, y: -0.625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 38
+      y: 173
+      width: 23
+      height: 16
+    spriteID: f24cdfe2b621129438a14cf1a8f1b463
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 38, y: 173}
+  - name: Desert-Eagle-Weapon-Reload_Frame_1
+    originalName: 
+    pivot: {x: 0.34782606, y: -0.625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 38
+      y: 197
+      width: 23
+      height: 16
+    spriteID: cdd8f8f831c2702428fb345ea2c07a1f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 38, y: 197}
+  - name: Desert-Eagle-Weapon-Reload_Frame_2
+    originalName: 
+    pivot: {x: 0.37499997, y: -0.36842105}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 222
+      width: 24
+      height: 19
+    spriteID: 0e65b15cf000e634ea6098a580c25f6d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 222}
+  - name: Desert-Eagle-Weapon-Reload_Frame_3
+    originalName: 
+    pivot: {x: 0.42307693, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 166
+      width: 26
+      height: 20
+    spriteID: 689c60e0d88fde04b8801dfa06b2ed2e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 166}
+  - name: Desert-Eagle-Weapon-Reload_Frame_4
+    originalName: 
+    pivot: {x: 0.42307693, y: -0.18181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 136
+      width: 26
+      height: 22
+    spriteID: a404847b31affd644af3dc5397f250ac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 136}
+  - name: Desert-Eagle-Weapon-Reload_Frame_5
+    originalName: 
+    pivot: {x: 0.42307693, y: -0.04}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 38
+      width: 26
+      height: 25
+    spriteID: caacacad709fa0b41bdfe0f3f084b263
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 38}
+  - name: Desert-Eagle-Weapon-Reload_Frame_6
+    originalName: 
+    pivot: {x: 0.42307693, y: -0.625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 38
+      y: 125
+      width: 26
+      height: 16
+    spriteID: f28139f0e2d412c418bddf1df631a7d4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 38, y: 125}
+  - name: Desert-Eagle-Weapon-Reload_Frame_7
+    originalName: 
+    pivot: {x: 0.44444445, y: -0.625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 38
+      y: 77
+      width: 27
+      height: 16
+    spriteID: a9a3e4861abec96478d1dfcf9700978d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 38, y: 77}
+  - name: Desert-Eagle-Weapon-Reload_Frame_8
+    originalName: 
+    pivot: {x: 0.44444445, y: -0.625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 38
+      y: 101
+      width: 27
+      height: 16
+    spriteID: 7db7296b90bbeba45b84ee47d8045fce
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 38, y: 101}
+  - name: Desert-Eagle-Weapon-Reload_Frame_9
+    originalName: 
+    pivot: {x: 0.44444445, y: -0.5294118}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 38
+      y: 28
+      width: 27
+      height: 17
+    spriteID: 1fb7956abca97f348a8499337fae2007
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 38, y: 28}
+  - name: Desert-Eagle-Weapon-Reload_Frame_10
+    originalName: 
+    pivot: {x: 0.42307693, y: -0.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 194
+      width: 26
+      height: 20
+    spriteID: a91e52cc9f8e5d948acf3576dd8bca59
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 194}
+  - name: Desert-Eagle-Weapon-Reload_Frame_11
+    originalName: 
+    pivot: {x: 0.42307693, y: -0.083333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 104
+      width: 26
+      height: 24
+    spriteID: 797428526251dbc469b114755bfe3be2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 104}
+  - name: Desert-Eagle-Weapon-Reload_Frame_12
+    originalName: 
+    pivot: {x: 0.42307693, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 26
+      height: 26
+    spriteID: 46d31a89582bd0c4c850f22cfba407e0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Desert-Eagle-Weapon-Reload_Frame_13
+    originalName: 
+    pivot: {x: 0.42307693, y: -0.04}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 71
+      width: 26
+      height: 25
+    spriteID: 2da9813dae12f4246b230c368a8c2e2d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 71}
+  - name: Desert-Eagle-Weapon-Reload_Frame_14
+    originalName: 
+    pivot: {x: 0.42307693, y: -0.625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 38
+      y: 149
+      width: 26
+      height: 16
+    spriteID: c14f0f2fcc93ed44ebf384ae90250632
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 38, y: 149}
+  - name: Desert-Eagle-Weapon-Reload_Frame_15
+    originalName: 
+    pivot: {x: 0.4827586, y: -0.625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 38
+      y: 4
+      width: 29
+      height: 16
+    spriteID: d6489e6b00886c94b9ebad6b2be4640d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 38, y: 4}
+  - name: Desert-Eagle-Weapon-Reload_Frame_16
+    originalName: 
+    pivot: {x: 0.4642857, y: -0.625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 38
+      y: 53
+      width: 28
+      height: 16
+    spriteID: bbab829c4481dbc4c8b23cad046cf9b5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 38, y: 53}
+  - name: Desert-Eagle-Weapon-Reload_Frame_17
+    originalName: 
+    pivot: {x: 0.34782606, y: -0.625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 38
+      y: 221
+      width: 23
+      height: 16
+    spriteID: 42e277cabe5f1374081378bdecda1a13
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 38, y: 221}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -1725075935
+    name: Desert-Eagle-Weapon-Reload
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Desert-Eagle-Weapon-Reload_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 12
+        y: 10
+        width: 23
+        height: 16
+      spriteId: f24cdfe2b621129438a14cf1a8f1b463
+    - name: Desert-Eagle-Weapon-Reload_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 12
+        y: 10
+        width: 23
+        height: 16
+      spriteId: cdd8f8f831c2702428fb345ea2c07a1f
+    - name: Desert-Eagle-Weapon-Reload_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 11
+        y: 7
+        width: 24
+        height: 19
+      spriteId: 0e65b15cf000e634ea6098a580c25f6d
+    - name: Desert-Eagle-Weapon-Reload_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 9
+        y: 6
+        width: 26
+        height: 20
+      spriteId: 689c60e0d88fde04b8801dfa06b2ed2e
+    - name: Desert-Eagle-Weapon-Reload_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 9
+        y: 4
+        width: 26
+        height: 22
+      spriteId: a404847b31affd644af3dc5397f250ac
+    - name: Desert-Eagle-Weapon-Reload_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 9
+        y: 1
+        width: 26
+        height: 25
+      spriteId: caacacad709fa0b41bdfe0f3f084b263
+    - name: Desert-Eagle-Weapon-Reload_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 9
+        y: 10
+        width: 26
+        height: 16
+      spriteId: f28139f0e2d412c418bddf1df631a7d4
+    - name: Desert-Eagle-Weapon-Reload_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 8
+        y: 10
+        width: 27
+        height: 16
+      spriteId: a9a3e4861abec96478d1dfcf9700978d
+    - name: Desert-Eagle-Weapon-Reload_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 8
+        y: 10
+        width: 27
+        height: 16
+      spriteId: 7db7296b90bbeba45b84ee47d8045fce
+    - name: Desert-Eagle-Weapon-Reload_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 8
+        y: 9
+        width: 27
+        height: 17
+      spriteId: 1fb7956abca97f348a8499337fae2007
+    - name: Desert-Eagle-Weapon-Reload_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 9
+        y: 6
+        width: 26
+        height: 20
+      spriteId: a91e52cc9f8e5d948acf3576dd8bca59
+    - name: Desert-Eagle-Weapon-Reload_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 9
+        y: 2
+        width: 26
+        height: 24
+      spriteId: 797428526251dbc469b114755bfe3be2
+    - name: Desert-Eagle-Weapon-Reload_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 9
+        y: 0
+        width: 26
+        height: 26
+      spriteId: 46d31a89582bd0c4c850f22cfba407e0
+    - name: Desert-Eagle-Weapon-Reload_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 9
+        y: 1
+        width: 26
+        height: 25
+      spriteId: 2da9813dae12f4246b230c368a8c2e2d
+    - name: Desert-Eagle-Weapon-Reload_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 9
+        y: 10
+        width: 26
+        height: 16
+      spriteId: c14f0f2fcc93ed44ebf384ae90250632
+    - name: Desert-Eagle-Weapon-Reload_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 6
+        y: 10
+        width: 29
+        height: 16
+      spriteId: d6489e6b00886c94b9ebad6b2be4640d
+    - name: Desert-Eagle-Weapon-Reload_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 7
+        y: 10
+        width: 28
+        height: 16
+      spriteId: bbab829c4481dbc4c8b23cad046cf9b5
+    - name: Desert-Eagle-Weapon-Reload_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 12
+        y: 10
+        width: 23
+        height: 16
+      spriteId: 42e277cabe5f1374081378bdecda1a13
+    linkedCells: []
+    parentIndex: -1
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: WebGL
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 40, y: 32}
